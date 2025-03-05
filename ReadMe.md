@@ -10,7 +10,7 @@ AI-Generated Insights: Uses a language model to analyze trends, anomalies, and k
 
 Modern UI: Sleek, purple-themed UI with an intuitive layout.
 
-Features
+Features:
 
 ✅ Automatic Data Cleaning (Handles missing values, categorical data, dates, and booleans)
 ✅ AI-Generated Insights (Trends, anomalies, and recommendations)

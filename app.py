@@ -5,11 +5,12 @@ from langchain_community.llms import Ollama
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
+
 # ----------------------- Streamlit UI Styling -----------------------
 
 st.set_page_config(page_title="AI-Powered Data Insights", page_icon="📊", layout="wide")
 
-# Apply custom CSS for modern design
+# Apply custom CSS for modern UI
 st.markdown("""
     <style>
         /* General Styling */
